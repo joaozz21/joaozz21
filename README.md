@@ -1,4 +1,4 @@
 - Oi, sou o João Henrique
 - Estou inteteressado em desenvolvimento mobile
-- Atualmente estou aprendendo Kotlin
+- Atualmente estou aprendendo Kotlin, Android Studio
 - Para entrar em contato: joao.aof14@gmail.com
