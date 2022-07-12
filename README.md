@@ -1,6 +1,6 @@
 ## Olá, sou o João Henrique, desenvolvedor mobile!
-- 👨‍💻 Android Studio, Android Jetpack, MVVM
-- 📚 Atualmente estudando Kotlin, Java e SQL
+- 👨‍💻 Android Studio (Kotlin)
+- 📚 Atualmente estudando React Native
 - 🙎‍♂️ Ele/dele
 
 <div align="center">
