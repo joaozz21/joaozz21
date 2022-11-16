@@ -1,7 +1,7 @@
-## Olá, sou o João Henrique, desenvolvedor mobile!
+## Olá, sou o João Henrique, confira meu portfólio!
 - 👨‍💻 Android Studio (Kotlin)
-- 📚 Atualmente estudando React Native
-- 🙎‍♂️ Ele/dele
+- 👨‍ Jupyter Notebook (Python)
+- 📚 Universidade Federal do ABC (Bacharelado em Ciência e Tecnologia) 
 
 <div align="center">
   <a href="https://github.com/joaozz21">
