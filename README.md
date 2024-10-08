@@ -1,6 +1,6 @@
 ## Olá, sou o João Henrique, confira meu portfólio!
 - 👨‍💻 Android Studio (Kotlin)
-- 👨‍ Jupyter Notebook (Python)
+- 🐍 Python (Flask)
 - 📚 Universidade Federal do ABC (Bacharelado em Ciência e Tecnologia) 
 
 <div align="center">
