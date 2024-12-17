@@ -1,7 +1,17 @@
-## Olá, sou o João Henrique, confira meu portfólio!
-- 👨‍💻 Kotlin (Android Dev.)
-- 🐍 Python (Data Science)
-- 📚 Universidade Federal do ABC (Bacharelado em Ciência e Tecnologia) 
+# Olá, sou o João Henrique, confira meu portfólio!
+**`Cientista de Dados`**
+
+Atualmente, possuo experiência adquirida na diretoria de Logística da Vivo, onde integrei a equipe de Projetos. Nesta posição, desenvolvi habilidades valiosas para minha função:
+- Implementação de melhorias em processos utilizando metodologia Lean Six Sigma;
+- Desenvolvimento de dashboards de visualização com Power BI (acompanhamento de KPIs e OKRs);
+- Experiência em limpeza e análise de dados utilizando Python, Excel e Alteryx;
+- Conhecimento prático em SQL;
+- Domínio do Pacote Office e metodologias ágeis como o SCRUM.
+
+
+  👨‍💻 Kotlin (Android Dev.) |
+  🐍 Python (Data Science) |
+  📚 Universidade Federal do ABC (Bacharelado em Ciência e Tecnologia) 
 
 <div align="center">
   <a href="https://github.com/joaozz21">
