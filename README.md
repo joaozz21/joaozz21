@@ -11,7 +11,7 @@ Atualmente estou cursando Bacharelado em Ciência da Computação pela UFABC(Uni
 
   👨‍💻 Kotlin (Android Dev.) |
   🐍 Python (Data Science) |
-  📚 Universidade Federal do ABC (Bacharelado em Ciência e Tecnologia) 
+  📚 Universidade Federal do ABC (Bacharelado em Ciência da Computação) 
 
 <div align="center">
   <a href="https://github.com/joaozz21">
