@@ -1,7 +1,7 @@
 # Olá, sou o João Henrique, confira meu portfólio!
 **`Cientista de Dados`**
 
-Atualmente, possuo experiência adquirida na diretoria de Logística da Vivo, onde integrei a equipe de Projetos. Nesta posição, desenvolvi habilidades valiosas para minha função:
+Atualmente estou cursando Bacharelado em Ciência da Computação pela UFABC(Univerdade Federal do ABC), possuo experiência adquirida na diretoria de Logística e Patrimônios da Vivo(Telefonica Brasil), onde integrei a equipe de Projetos & Inovação. Nesta posição, desenvolvi as seguintes habilidades para minha função:
 - Implementação de melhorias em processos utilizando metodologia Lean Six Sigma;
 - Desenvolvimento de dashboards de visualização com Power BI (acompanhamento de KPIs e OKRs);
 - Experiência em limpeza e análise de dados utilizando Python, Excel e Alteryx;
