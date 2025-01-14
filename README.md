@@ -13,7 +13,10 @@ Atualmente estou cursando Bacharelado em Ciência da Computação pela UFABC(Uni
   🐍 Python (Data Science) |
   📚 Universidade Federal do ABC (Bacharelado em Ciência da Computação) 
 
-
+<div align="center">
+  <a href="https://github.com/joaozz21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozz21&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="Joao-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
